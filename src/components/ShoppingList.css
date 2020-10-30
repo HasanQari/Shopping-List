@@ -1,0 +1,16 @@
+.ShoppingList{
+    list-style: none;
+    margin: 2rem;
+    padding: 0;
+}
+
+.ShoppingList li{
+    margin: 1rem 0;
+    border: 1px solid #ccc;
+    padding: 1rem;
+}
+
+.ShoppingList li:hover{
+    background-color: rgb(241, 241, 241);
+    cursor: pointer;
+}

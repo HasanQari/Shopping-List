@@ -1,0 +1,13 @@
+.add-item{
+    margin: 2rem;
+    text-align: center;
+}
+
+.btn{
+    margin-left: .3rem;
+}
+
+.btn:hover{
+    background-color: rgb(91, 230, 255);
+    cursor: pointer;
+}
